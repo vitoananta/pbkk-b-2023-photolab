@@ -1,0 +1,1 @@
+D:\Kuliah\Semester 5\Pemrograman Berbasis Kerangka Kerja (B)\4 Universal Windows Platform (22-09-23)\Windows-appsample-photo-lab\PhotoLab\PhotoLab.csproj;x64
